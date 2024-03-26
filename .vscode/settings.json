@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/balakumaranb/JavaServerProjects/apache-tomcat-9.0.82/lib/servlet-api.jar",
+        "/Users/balakumaranb/javasqlintegrationvscode/mysql-connector-j-8.2.0.jar"
+    ]
+}
